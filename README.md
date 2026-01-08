@@ -83,6 +83,9 @@ This repository contains documentation submitted at various stages of the BDM ca
   Summarizes the project, including the problem statement, analysis, key findings, and recommendations using charts and visualizations.
 
 ---
+<img width="1325" height="669" alt="Screenshot 2026-01-08 151839" src="https://github.com/user-attachments/assets/768e979f-7722-4e60-8cb4-36dfdb29ebed" />
+<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/82a92ad4-3dd8-454e-81c1-3733324f7794" />
+
 
 ## Analysis & Visualizations
 
