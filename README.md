@@ -102,7 +102,7 @@ Management should prioritize forecasting, replenishment, and supplier negotiatio
 
 ### 4. Monthly Sales Trend (Line Chart)
 
-![Monthly Sales Trend](https://github.com/user-attachments/assets/7c8c775c-a49b-4490-8c55-877c469b882e)
+![Monthly Sales Trend](https://github.com/user-attachments/assets/c9a7f60c-5303-4eda-bb9e-6acf8fb14f89)
 
 **Analysis:**
 The sales trend line chart shows clear seasonality. Sales peak during **November**, corresponding to festive demand, and drop significantly in **January**, indicating post-festival slowdown.
