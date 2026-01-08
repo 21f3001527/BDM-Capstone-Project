@@ -158,9 +158,10 @@ Visualizations help identify high-demand products, seasonal trends, and inventor
 
 ## Technologies & Tools
 
-* **Data Analysis:** MS Excel, Python (Pandas, Matplotlib, Seaborn)
-* **Visualization:** Charts, Graphs, Pareto Analysis
-* **Business Concepts:** Lean Management, Customer Relationship Management (CRM)
+MS Excel: For data analysis and visualization.
+Python: For data cleaning and statistical analysis.
+Data Visualization Tools: To create charts and graphs for better data understanding.
+
 
 ---
 
@@ -184,6 +185,7 @@ cd BDM-Capstone-Project
 
 
 Contact Information
+
 Name: Rajeev Kumar
 
 LinkedIn: linkedin.com/in/rajeev245
