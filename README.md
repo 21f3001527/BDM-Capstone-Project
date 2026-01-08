@@ -57,6 +57,8 @@ The following section provides **chart-wise analysis**, directly interpreting th
 
 ### 1. Monthly Stock Comparison (Bar Chart)
 
+![Monthly Stock Comparison](https://github.com/user-attachments/assets/768e979f-7722-4e60-8cb4-36dfdb29ebed)
+
 **Analysis:**
 The bar chart comparing monthly stock levels across product categories shows uneven stock distribution. Certain categories consistently maintain high stock levels even during low-demand months, while fast-moving categories experience tighter stock availability.
 
@@ -69,6 +71,8 @@ Optimizing stock levels based on historical demand can reduce overstocking and e
 ---
 
 ### 2. Stock Allocation by Category (Pie Chart)
+
+![Stock Allocation Pie Chart](https://github.com/user-attachments/assets/82a92ad4-3dd8-454e-81c1-3733324f7794)
 
 **Analysis:**
 The pie chart highlights that a significant portion of inventory is concentrated in a few categories, primarily Apparel and Women’s Wear, followed by accessories such as backpacks.
@@ -83,6 +87,8 @@ Maintaining optimal safety stock for these categories is critical, while less sp
 
 ### 3. Pareto Analysis – Inventory Items (80/20 Rule)
 
+![Pareto Analysis Inventory](https://github.com/user-attachments/assets/8618356f-b15d-4fbc-96dd-da8d9a20d325)
+
 **Analysis:**
 The Pareto chart shows that approximately **20–30% of products account for nearly 70–80% of total sales value**.
 
@@ -95,6 +101,8 @@ Management should prioritize forecasting, replenishment, and supplier negotiatio
 ---
 
 ### 4. Monthly Sales Trend (Line Chart)
+
+![Monthly Sales Trend](https://github.com/user-attachments/assets/7c8c775c-a49b-4490-8c55-877c469b882e)
 
 **Analysis:**
 The sales trend line chart shows clear seasonality. Sales peak during **November**, corresponding to festive demand, and drop significantly in **January**, indicating post-festival slowdown.
