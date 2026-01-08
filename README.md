@@ -7,7 +7,8 @@
 
 ## Project Overview
 
-This capstone project analyzes **99 Market Mall’s** business data to identify operational challenges and provide data-driven recommendations. The objective is to optimize inventory management, boost sales, and enhance customer experience despite limited resources. The analysis is supported by multiple charts and graphs, each interpreted in detail to derive actionable business insights.
+
+This capstone project analyzes **99 Market Mall’s** business data to identify operational challenges and provide data-driven recommendations. The objective is to optimize inventory management, boost sales, and enhance customer experience despite limited resources.
 
 ---
 
@@ -22,8 +23,8 @@ This capstone project analyzes **99 Market Mall’s** business data to identify 
 
 ## Problem Statement
 
-* Limited financial and operational resources restrict innovation, expansion, and enhancements in customer experience.
-* Increasing competition from large retail chains and online platforms demands better differentiation, efficient inventory planning, and improved customer retention strategies.
+* Limited resources restrict innovation, expansion, and improvements in customer experience.
+* Increasing competition from larger retailers requires differentiation to maintain customer loyalty and market share.
 
 ---
 
@@ -32,11 +33,13 @@ This capstone project analyzes **99 Market Mall’s** business data to identify 
 * **Source:** Sales records and inventory systems from 99 Market Mall
 * **Features:** Product categories, stock quantity, sales amount, monthly revenue, profit, customer preferences
 * **Format:** CSV / Excel
-* **Data Cleaning:** Missing values handled, inconsistent formats standardized, and data integrity verified before analysis
+* **Data Cleaning:** Missing values handled, standardized formats applied, and data consistency ensured
 
 ---
 
 ## Repository & File Structure
+
+The repository is organized to reflect different stages of the capstone project submission.
 
 ```
 BDM-Capstone-Project/
@@ -47,127 +50,84 @@ BDM-Capstone-Project/
 │── README.md
 ```
 
+### File Description
+
+* **Proposal.pdf**
+  Provides an introduction to the project, outlining objectives, scope, and analytical approach. Highlights the primary challenges faced by the retail business.
+
+* **Mid term report.pdf**
+  Contains the executive summary, proof of data originality, metadata, descriptive statistics, and a detailed explanation of the data collection, cleaning, and analysis methodology. Discusses initial findings.
+
+* **End Term Submission.pdf**
+  Includes a comprehensive analysis of the data, results, and findings. Provides detailed insights into customer preferences, sales trends, and inventory management, along with recommendations for optimizing operations and business strategies.
+
+* **Presentation.pdf**
+  Final presentation summarizing the problem statement, data analysis, key findings, and recommendations using charts and visualizations.
+
 ---
+
+## Repository & File Structure
+
+This repository contains documentation submitted at various stages of the BDM capstone project.
+
+* **Proposal.pdf**
+  Provides an introduction to the project, outlining objectives and analytical approach. Highlights the primary challenges faced by the retail business.
+
+* **Mid term report.pdf**
+  Contains an executive summary, proof of data originality, metadata, descriptive statistics, and a detailed explanation of the data collection, cleaning, and analysis process. Discusses initial findings and methodology.
+
+* **End Term Submission.pdf**
+  Includes comprehensive data analysis, results, and findings. Provides detailed insights into customer preferences, sales trends, and inventory management, along with business optimization strategies.
+
+* **Presentation.pdf**
+  Summarizes the project, including the problem statement, analysis, key findings, and recommendations using charts and visualizations.
+
+---
+<img width="1325" height="669" alt="Screenshot 2026-01-08 151839" src="https://github.com/user-attachments/assets/768e979f-7722-4e60-8cb4-36dfdb29ebed" />
+<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/82a92ad4-3dd8-454e-81c1-3733324f7794" />
+<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/8618356f-b15d-4fbc-96dd-da8d9a20d325" />
+<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/7c8c775c-a49b-4490-8c55-877c469b882e" />
+<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/c9a7f60c-5303-4eda-bb9e-6acf8fb14f89" />
+
+
+
+
 
 ## Analysis & Visualizations
 
-The following section provides **chart-wise analysis**, directly interpreting the graphs and screenshots included in the repository.
+### Stock Analysis
 
----
+* Monthly stock comparison (bar charts)
+* Stock allocation (pie charts)
+* Pareto analysis to identify critical inventory items
 
-### 1. Monthly Stock Comparison (Bar Chart)
+### Sales Trends
 
-![Monthly Stock Comparison](https://github.com/user-attachments/assets/768e979f-7722-4e60-8cb4-36dfdb29ebed)
+* Monthly sales and profit trend analysis
+* Pareto charts to identify top-selling products
 
-**Analysis:**
-The bar chart comparing monthly stock levels across product categories shows uneven stock distribution. Certain categories consistently maintain high stock levels even during low-demand months, while fast-moving categories experience tighter stock availability.
+### Customer Preferences
 
-**Insight:**
-This imbalance indicates inefficient capital utilization, where money is locked in slow-moving inventory.
+* Festival season impact analysis (November highest, January lowest)
+* Women’s Wear, Backpacks, and Apparel contribute approximately 70% of total sales
 
-**Business Impact:**
-Optimizing stock levels based on historical demand can reduce overstocking and ensure better availability of high-demand products.
-
----
-
-### 2. Stock Allocation by Category (Pie Chart)
-
-![Stock Allocation Pie Chart](https://github.com/user-attachments/assets/82a92ad4-3dd8-454e-81c1-3733324f7794)
-
-**Analysis:**
-The pie chart highlights that a significant portion of inventory is concentrated in a few categories, primarily Apparel and Women’s Wear, followed by accessories such as backpacks.
-
-**Insight:**
-These categories dominate shelf space, confirming their importance in overall sales contribution.
-
-**Business Impact:**
-Maintaining optimal safety stock for these categories is critical, while less space can be allocated to low-performing items.
-
----
-
-### 3. Pareto Analysis – Inventory Items (80/20 Rule)
-
-![Pareto Analysis Inventory](https://github.com/user-attachments/assets/8618356f-b15d-4fbc-96dd-da8d9a20d325)
-
-**Analysis:**
-The Pareto chart shows that approximately **20–30% of products account for nearly 70–80% of total sales value**.
-
-**Insight:**
-A small number of products drive most of the revenue, validating the Pareto principle in retail inventory management.
-
-**Business Impact:**
-Management should prioritize forecasting, replenishment, and supplier negotiations for these critical items.
-
----
-
-### 4. Monthly Sales Trend (Line Chart)
-
-![Monthly Sales Trend](https://github.com/user-attachments/assets/c9a7f60c-5303-4eda-bb9e-6acf8fb14f89)
-
-**Analysis:**
-The sales trend line chart shows clear seasonality. Sales peak during **November**, corresponding to festive demand, and drop significantly in **January**, indicating post-festival slowdown.
-
-**Insight:**
-Customer purchasing behavior is highly influenced by seasonal and festival periods.
-
-**Business Impact:**
-Advance stocking and promotional campaigns before festive months can significantly improve revenue.
-
----
-
-### 5. Monthly Profit Trend (Line Chart)
-
-**Analysis:**
-Although sales increase during peak months, profit margins do not always rise proportionally. This suggests higher discounting or increased procurement costs during high-demand periods.
-
-**Insight:**
-High sales volume does not automatically translate into higher profitability.
-
-**Business Impact:**
-Cost control, supplier negotiation, and margin-based pricing strategies are essential during peak seasons.
-
----
-
-### 6. Product-wise Sales Contribution (Pareto Chart)
-
-**Analysis:**
-The chart indicates that **Women’s Wear, Apparel, and Backpacks together contribute nearly 70% of total sales**.
-
-**Insight:**
-Customer preference is clearly skewed toward fashion-related products.
-
-**Business Impact:**
-Focused marketing, improved visual merchandising, and variety expansion in these categories can further boost revenue.
-
----
-
-### 7. Seasonal Demand Analysis
-
-**Analysis:**
-Sales data across months confirms strong festival-driven demand, with November as the highest-performing month and January as the weakest.
-
-**Insight:**
-Demand forecasting must account for cultural and seasonal buying patterns.
-
-**Business Impact:**
-Running clearance sales during low-demand months can help reduce excess inventory and improve cash flow.
+Visualizations help identify high-demand products, seasonal trends, and inventory imbalances.
 
 ---
 
 ## Key Findings
 
 * **Customer Preferences:** Women’s Wear and Apparel are the primary revenue drivers.
-* **Sales Trends:** Strong seasonality with festival-driven peaks.
-* **Inventory Management:** Inefficient stock allocation leads to capital blockage.
-* **Profitability:** Margin management is as important as sales volume.
+* **Sales Trends:** Sales fluctuate seasonally, with peaks during festival periods.
+* **Inventory Management:** Optimized stock planning can reduce capital blockage and improve availability of high-demand items.
 
 ---
 
 ## Insights
 
-* Demand-driven inventory planning improves operational efficiency.
-* Pareto-based product prioritization enables better decision-making.
-* Seasonal promotions and pricing strategies can significantly impact profitability.
+* Demand-driven stocking can significantly improve operational efficiency.
+* Targeted promotions during peak seasons can enhance revenue.
+* Data-driven monitoring enables better forecasting and decision-making.
 
 ---
 
@@ -175,33 +135,34 @@ Running clearance sales during low-demand months can help reduce excess inventor
 
 ### Resource Optimization
 
-* Conduct periodic inventory audits to reduce dead stock.
-* Partner with local suppliers for faster replenishment and lower costs.
-* Apply lean management principles to minimize waste.
-* Use low-cost, cloud-based inventory management systems.
+* Conduct regular audits to eliminate unnecessary costs.
+* Partner with local suppliers to optimize procurement.
+* Apply lean management principles for operational efficiency.
+* Implement low-cost, cloud-based inventory management tools.
 
 ### Customer Engagement & Differentiation
 
-* Focus on personalized service and community trust.
-* Introduce loyalty programs for repeat customers.
-* Strengthen social media presence for local marketing.
-* Run targeted promotions during festival seasons.
+* Emphasize personalized service and exclusive product offerings.
+* Organize community events and partnerships.
+* Run targeted marketing campaigns.
+* Strengthen online presence through social media platforms.
+* Introduce loyalty programs to retain repeat customers.
 
 ---
 
 ## Technologies & Tools
 
 * **Data Analysis:** MS Excel, Python (Pandas, Matplotlib, Seaborn)
-* **Visualization:** Bar charts, Line charts, Pie charts, Pareto analysis
-* **Business Concepts:** Lean Management, CRM, Demand Forecasting
+* **Visualization:** Charts, Graphs, Pareto Analysis
+* **Business Concepts:** Lean Management, Customer Relationship Management (CRM)
 
 ---
 
 ## Conclusion
 
-This project demonstrates how structured data analysis can uncover actionable insights for small retail businesses. By aligning inventory planning, sales strategy, and customer engagement with data-driven findings, 99 Market Mall can improve profitability and sustain competitiveness.
+By analyzing sales and inventory data, this project identifies key opportunities for improving operations and customer experience at 99 Market Mall. Implementing these data-driven strategies can help optimize resources, increase profitability, and maintain a competitive edge.
 
-✅ **Project Outcome:** A practical roadmap for inventory optimization, sales growth, and customer-centric decision-making.
+✅ **Project Outcome:** A clear roadmap for data-driven decision-making with actionable recommendations for inventory optimization, sales growth, and customer engagement.
 
 ---
 
