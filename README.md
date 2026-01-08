@@ -7,6 +7,7 @@
 
 ## Project Overview
 
+
 This capstone project analyzes **99 Market Mall’s** business data to identify operational challenges and provide data-driven recommendations. The objective is to optimize inventory management, boost sales, and enhance customer experience despite limited resources.
 
 ---
