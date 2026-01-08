@@ -159,7 +159,7 @@ By analyzing sales and inventory data, this project identifies key opportunities
 
 ## Author
 
-**Prem Kumar**
+**Rajeev Kumar**
 GitHub: [https://github.com/21f3001527](https://github.com/21f3001527)
 
 ---
