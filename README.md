@@ -175,14 +175,15 @@ By analyzing sales and inventory data, this project identifies key opportunities
 
 ## How to Use This Repository
 
-**Clone the Repository:**
+**Clone the Repository:**  
 
-[https://github.com/21f3001527/BDM-Capstone-Project](https://github.com/21f3001527/BDM-Capstone-Project)
+[BDM-Capstone-Project on GitHub](https://github.com/21f3001527/BDM-Capstone-Project)  
 
-or using Git command:
+Or using Git command:
 
 ```bash
 git clone https://github.com/21f3001527/BDM-Capstone-Project.git
+
 
 ## Contact Information
 
@@ -191,10 +192,5 @@ git clone https://github.com/21f3001527/BDM-Capstone-Project.git
 - **LinkedIn:** [linkedin.com/in/rajeev245](https://www.linkedin.com/in/rajeev245)  
 - **GitHub:** [github.com/21f3001527](https://github.com/21f3001527)  
 
+Feel free to reach out for any queries or further information regarding the project.
 
-
----
-
-## License
-
-This project is submitted as part of an academic capstone and is intended for educational purposes only
