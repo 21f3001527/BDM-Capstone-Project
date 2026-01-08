@@ -83,11 +83,13 @@ This repository contains documentation submitted at various stages of the BDM ca
   Summarizes the project, including the problem statement, analysis, key findings, and recommendations using charts and visualizations.
 
 ---
-<img width="1325" height="669" alt="Screenshot 2026-01-08 151839" src="https://github.com/user-attachments/assets/768e979f-7722-4e60-8cb4-36dfdb29ebed" />
-<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/82a92ad4-3dd8-454e-81c1-3733324f7794" />
-<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/8618356f-b15d-4fbc-96dd-da8d9a20d325" />
-<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/7c8c775c-a49b-4490-8c55-877c469b882e" />
-<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/c9a7f60c-5303-4eda-bb9e-6acf8fb14f89" />
+<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/0706ad09-6729-4b41-8005-0cee2b80bed2" />
+<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/f7f72dc9-81ab-4497-8f72-bce4d9de12bf" />
+<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/d393968b-9328-4768-b98a-eee6974ca4ee" />
+<img width="1353" height="670" alt="Screenshot 2026-01-08 152211" src="https://github.com/user-attachments/assets/ea3d6d0b-baf9-46fc-864d-503ad762185a" />
+<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/e79aacd8-960c-4cff-8430-f5f4e840407a" />
+
+
 
 
 
@@ -166,10 +168,24 @@ By analyzing sales and inventory data, this project identifies key opportunities
 
 ---
 
-## Author
+How to Use This Repository
 
-**Rajeev Kumar**
-GitHub: [https://github.com/21f3001527](https://github.com/21f3001527)
+Clone the Repository:
+
+git clone https://github.com/21f3001527/BDM-Capstone-Project.git
+
+Navigate to Project Files:
+
+cd BDM-Capstone-Project
+
+
+Contact Information
+
+Name: Rajeev Kumar
+
+LinkedIn: linkedin.com/in/rajeev245
+
+GitHub: github.com/21f3001527
 
 ---
 
