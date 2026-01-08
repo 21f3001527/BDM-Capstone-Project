@@ -83,11 +83,15 @@ This repository contains documentation submitted at various stages of the BDM ca
   Summarizes the project, including the problem statement, analysis, key findings, and recommendations using charts and visualizations.
 
 ---
-<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/0706ad09-6729-4b41-8005-0cee2b80bed2" />
-<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/f7f72dc9-81ab-4497-8f72-bce4d9de12bf" />
-<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/d393968b-9328-4768-b98a-eee6974ca4ee" />
-<img width="1353" height="670" alt="Screenshot 2026-01-08 152211" src="https://github.com/user-attachments/assets/ea3d6d0b-baf9-46fc-864d-503ad762185a" />
-<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/e79aacd8-960c-4cff-8430-f5f4e840407a" />
+<img width="1325" height="669" alt="Screenshot 2026-01-08 151839" src="https://github.com/user-attachments/assets/c19d39ca-bad2-4203-aad7-9dd80c06eba0" />
+<img width="1343" height="691" alt="Screenshot 2026-01-08 152141" src="https://github.com/user-attachments/assets/d2ab04c5-5883-482d-879b-cf01a54c4de3" />
+<img width="1258" height="681" alt="Screenshot 2026-01-08 152155" src="https://github.com/user-attachments/assets/785b20a8-a13b-46d3-a874-2a91f24638ca" />
+<img width="1353" height="670" alt="Screenshot 2026-01-08 152211" src="https://github.com/user-attachments/assets/82d66c37-f2fc-4592-afd7-466f216d2f4a" />
+<img width="1248" height="622" alt="Screenshot 2026-01-08 152229" src="https://github.com/user-attachments/assets/df47d835-42d6-400f-9eb8-c268127ff591" />
+
+
+
+
 
 
 
@@ -180,11 +184,8 @@ cd BDM-Capstone-Project
 
 
 Contact Information
-
 Name: Rajeev Kumar
-
 LinkedIn: linkedin.com/in/rajeev245
-
 GitHub: github.com/21f3001527
 
 ---
