@@ -186,11 +186,9 @@ cd BDM-Capstone-Project
 
 Contact Information
 
-Name: Rajeev Kumar
-
-LinkedIn: linkedin.com/in/rajeev245
-
 GitHub: github.com/21f3001527
+LinkedIn: linkedin.com/in/rajeev245
+Name: Rajeev Kumar
 
 ---
 
