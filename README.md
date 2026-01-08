@@ -1,104 +1,72 @@
-# BDM-Capstone-Project
-Data-driven analysis and recommendations for optimizing sales, inventory, and customer experience at 99 Market Mall using business data management techniques.
-
 # Navigating Challenges: A Data-Driven Boost for 99 Market Mall
 
-[![Project Status](https://img.shields.io/badge/status-completed-brightgreen)](https://github.com/)  
-[![Author](https://img.shields.io/badge/author-Jeev%20Kumar%20Bhagat-blue)](https://github.com/)  
+[![Project Status](https://img.shields.io/badge/status-completed-brightgreen)](https://github.com/21f3001527/BDM-Capstone-Project)  
+[![Author](https://img.shields.io/badge/author-Rajeev%20Kumar%20Bhagat-blue)](https://github.com/21f3001527)  
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 ---
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [About 99 Market Mall](#about-99-market-mall)
-- [Problem Statement](#problem-statement)
-- [Dataset](#dataset)
-- [Analysis & Visualizations](#analysis--visualizations)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
-- [Technologies & Tools](#technologies--tools)
-- [Conclusion](#conclusion)
-
----
-
 ## Project Overview
-This capstone project analyzes **99 Market Mall’s** business data to identify operational challenges and provide data-driven recommendations. The goal is to optimize inventory, boost sales, and enhance customer experience despite limited resources.
+This capstone project analyzes **99 Market Mall’s** business data to identify operational challenges and provide data-driven recommendations. The main objective is to optimize inventory, boost sales, and enhance customer experience despite limited resources. By leveraging sales and stock data, this project delivers actionable insights on customer preferences, sales trends, and inventory management strategies.  
 
 ---
 
-## About 99 Market Mall
-- **Location:** Maharajganj, Siwan, Bihar (Pin Code: 841238)  
-- **Overview:** A local favorite offering fashion, groceries, and essentials.  
-- **Monthly Revenue:** ~₹2,00,000  
-- **Strengths:** Trusted by community, customer-centric, wide product variety  
+## Project Structure
+
+### Proposal
+- Provides an introduction to the project, outlining objectives and approach.  
+- Highlights the primary challenges faced by 99 Market Mall.  
+- Available in [Proposal.pdf](docs/Proposal.pdf).  
+
+### Mid-Term Submission
+- Contains an executive summary, proof of data originality, metadata, descriptive statistics, and methodology for data collection and cleaning.  
+- Discusses initial findings and preliminary insights.  
+- Available in [BDM Mid-Term Submission Doc.pdf](docs/BDM_Mid-Term_Submission_Doc.pdf).  
+
+### End-Term Submission
+- Includes comprehensive analysis of sales, stock, and customer preferences.  
+- Provides actionable insights into inventory management and operational efficiency.  
+- Offers recommendations to optimize resources and enhance profitability.  
+- Available in [BDM End-Term Submission Doc.pdf](docs/BDM_End-Term_Submission_Doc.pdf).  
+
+### Final Presentation
+- Summarizes the project, including problem statement, data analysis, and recommendations.  
+- Uses charts and visual aids for effective presentation.  
+- Available in [BDM Final Presentation.pdf](docs/BDM_Final_Presentation.pdf).  
 
 ---
 
-## Problem Statement
-- Limited resources restrict innovation, expansion, and customer experience improvements.  
-- Facing competition from larger retailers, the mall must differentiate to maintain loyalty and market share.
-
----
-
-## Dataset
-- **Source:** Sales records & inventory systems from 99 Market Mall  
-- **Features:** Product categories, stock quantity, sales amount, monthly revenue, profit, customer preferences  
-- **Cleaning:** Handled missing values, standardized formats, and ensured data consistency  
-- **Format:** CSV / Excel  
-
----
-
-## Analysis & Visualizations
-- **Stock Analysis:**  
-  - Monthly Stock Bar Chart  
-  - Stock Allocation Pie Chart  
-  - Stock Pareto Chart  
-
-- **Sales Trends:**  
-  - Monthly sales and profit trends  
-  - Sales Pareto Chart to identify top-selling products  
-
-- **Customer Preferences:**  
-  - Festival season impacts (November highest, January lowest)  
-  - Women’s Wear, Backpacks, Apparel drive ~70% of sales  
-
-> Visualizations help identify high-demand products, seasonal trends, and inventory imbalances.
-
----
-
-## Insights
-1. Women’s Wear and Apparel are key revenue drivers.  
-2. Sales fluctuate seasonally with festivals and weather.  
-3. Optimized inventory and targeted promotions can increase efficiency and sales.
+## Key Findings
+- **Customer Preferences:** Women’s Wear and Apparel are the most preferred products, followed by Backpacks and Accessories.  
+- **Sales Trends:** November peaks due to festival season and favorable weather; January sees lowest sales.  
+- **Inventory Management:** Need for smarter stock allocation to prevent capital blockage and optimize inventory levels.  
 
 ---
 
 ## Recommendations
-
 ### Resource Optimization
 - Conduct audits to reduce unnecessary costs.  
-- Partner with local suppliers to share resources.  
-- Apply lean management for efficiency.  
-- Implement low-cost tech tools like cloud-based inventory systems.  
+- Partner with local suppliers for just-in-time ordering.  
+- Apply lean management principles to improve efficiency.  
+- Use low-cost tech tools like Excel and Python for informed decision-making.  
 
 ### Customer Engagement & Differentiation
-- Highlight personalized service and exclusive products.  
+- Highlight personalized services and exclusive products.  
 - Host events and community partnerships to strengthen ties.  
 - Run targeted marketing campaigns.  
-- Boost online presence via website and social media.  
+- Boost online presence via social media and website.  
 - Introduce loyalty programs to retain repeat customers.  
 
 ---
 
-## Technologies & Tools
-- **Data Analysis:** Excel, Python (Pandas, Matplotlib, Seaborn)  
-- **Visualization:** Charts, Graphs, Pareto Analysis  
-- **Business Management Concepts:** Lean Management, Customer Relationship Management  
+## Technologies Used
+- **MS Excel:** Data analysis and visualization  
+- **Python:** Data cleaning, statistical analysis, and visualization  
+- **Data Visualization Tools:** Charts and graphs to illustrate trends and insights  
 
 ---
 
-## Conclusion
-By analyzing sales and stock data, the project identifies key opportunities for improving operations and customer experience. Implementing these data-driven strategies can help **99 Market Mall** optimize resources, increase profitability, and maintain a competitive edge.
-
-✅ **Project Outcome:** A clear roadmap for data-driven decision-making and actionable recommendations for inventory, sales, and customer engagement.
+## How to Use This Repository
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/21f3001527/BDM-Capstone-Project.git
