@@ -176,7 +176,7 @@ By analyzing sales and inventory data, this project identifies key opportunities
 ## Contact Information
 
 - **Name:** Rajeev Kumar  
-- **Email:** [rajeev.kumar@example.com](mailto:rajeev90767@gmail.com)  
+- **Email:** [rajeev90767@gmail.com](mailto:rajeev90767@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/rajeev245](https://www.linkedin.com/in/rajeev245)  
 - **GitHub:** [github.com/21f3001527](https://github.com/21f3001527)  
 
